@@ -44,42 +44,6 @@ Hello everyone! Name's Juan, nice to meet you. I'm an enthusiastic full-stack we
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 <!--
 **JuanMartinSalinas/JuanMartinSalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
