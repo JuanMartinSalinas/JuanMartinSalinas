@@ -1,8 +1,8 @@
 ### <div align="center">I'm Juan, a Full-Stack developer fully commited to learn 🚀</div>  
   
 
-Hello everyone! Name's Juan, nice to meet you. I'm an enthusiastic full-stack web developer from Argentina who's excited to start working in the industry. I started my journey with Javascript but I'm always open to learn new things! I also do some graphic design for fun :)  
-  
+<p>Hello everyone! Name's Juan, nice to meet you. I'm an enthusiastic full-stack web developer from Argentina who's excited to start working in the industry. I started my journey with Javascript but I'm always open to learn new things! I also do some graphic design for fun :)</p>
+
 
 <br/>  
 
