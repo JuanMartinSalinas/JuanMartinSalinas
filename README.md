@@ -46,7 +46,7 @@ I mainly write JavaScript code, although recently I've been interested in other 
 </div>
   
   
-Wanna talk? Write me!
+## Wanna talk? Write me!
 juanmartinsalinas1@gmail.com
 
 <!--
