@@ -44,6 +44,10 @@ I mainly write JavaScript code, although recently I've been interested in other 
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
+  
+  
+Wanna talk? Write me!
+juanmartinsalinas1@gmail.com
 
 <!--
 **JuanMartinSalinas/JuanMartinSalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
