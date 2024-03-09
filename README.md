@@ -1,10 +1,10 @@
-### <div align="center">Hello World! I'm Juan, a Full-Stack developer fully commited to learn 🚀</div>  
+### <div align="center">Hello World! I'm Juan, your trustworthy Frontend developer 🚀</div>  
   
 ## Who am I?
-<p>Hi everyone! I'm an enthusiastic full-stack web developer from Argentina who's excited to start working in the industry. I started my journey with Javascript but I'm always open to learn new things! I also do some graphic design for fun :)</p>
+<p>Hi everyone! I'm an enthusiastic frontend dev from Argentina. I started my journey with Javascript but I'm always open to learn new things! I also do some graphic design for fun :)</p>
 
 ## What do I do?
-I mainly write JavaScript code, although recently I've been interested in other languages like Python and Lua. Since I was a kid I've always wanted to learn to code.
+I mainly write JavaScript code, although recently I've been interested in other languages like Python and Lua.
 
 <br/>  
 
