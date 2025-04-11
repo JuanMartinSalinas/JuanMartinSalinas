@@ -27,7 +27,7 @@
 
 
 
-## Front-end Development
+## 🖼️ Front-end Development
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/three-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Tailwind CSS Badge">
 </p>
 
-## Back-end Development
+## 💻 Back-end Development
 <p>
     <img src="https://img.shields.io/badge/Node-69b74e?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Badge">
     <img src="https://img.shields.io/badge/Express-darkgrey?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge">
