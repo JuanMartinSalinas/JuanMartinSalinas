@@ -14,8 +14,8 @@
 
 <br>
 
-<table>
-  <tr>
+<table style="border: none;">
+  <tr style="border: none;">
     <td style="border: none;" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=JuanMartinSalinas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko&hide_stars=false" height="210em"/>
     </td>
