@@ -16,8 +16,8 @@
 
 <table>
   <tr>
-    <td style="border:0px" valign="center"><img height="210em" src="https://github-readme-stats.vercel.app/api?username=JuanMartinSalinas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide_stars=false" /></td>
-    <td style="border:0px" valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMartinSalinas&theme=merko&card_width=300em)](https://github.com/JuanMartinSalinas/JuanMartinSalinas/github-readme-stats"/></td>
+    <td valign="center"><img height="210em" src="https://github-readme-stats.vercel.app/api?username=JuanMartinSalinas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko&hide_stars=false" /></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMartinSalinas&theme=merko&card_width=300em)](https://github.com/JuanMartinSalinas/JuanMartinSalinas/github-readme-stats"/></td>
   </tr>
 </table>
 
