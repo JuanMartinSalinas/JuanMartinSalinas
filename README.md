@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h1 align="center">I'm Juan. Nice to meet you! 👋</h1>
 <h3 align="center">Full-Stack web developer</h3>
 <h4 align="center">Check my portfolio: https://juan-ms.vercel.app/</h4>
@@ -14,8 +20,8 @@
 
 <br>
 
-<table style="border: none;">
-  <tr style="border: none;">
+<table>
+  <tr>
     <td style="border: none;" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=JuanMartinSalinas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko&hide_stars=false" height="210em"/>
     </td>
