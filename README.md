@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋, I'm Juan. Nice to meet you.</h1>
+<h1 align="center">I'm Juan. Nice to meet you! 👋</h1>
 <h3 align="center">Full-Stack web developer</h3>
 <h4 align="center">Check my portfolio: https://juan-ms.vercel.app/</h4>
 
 <br>
 
-- 🎨 Full-Stack focused on frontend
+- 🎨 Full-Stack, focused on front-end
 
 - 😍 Working as a freelance web developer
 
