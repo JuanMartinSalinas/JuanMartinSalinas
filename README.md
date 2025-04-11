@@ -10,7 +10,7 @@
 
 - 🤖 I also work with Discord.js and other libraries
 
-- 📫 Wanna talk? Check my ![LinkedIn](https://www.linkedin.com/in/juanmartinsalinas) or reach me at: **juanmartinsalinas1@gmail.com**
+- 📫 Wanna talk? Check my [LinkedIn](https://www.linkedin.com/in/juanmartinsalinas) or reach me at: **juanmartinsalinas1@gmail.com**
 
 <br>
 
