@@ -17,10 +17,10 @@
 <table>
   <tr>
     <td style="border:0px" valign="middle">
-      <img height="210em" src="https://github-readme-stats.vercel.app/api?username=JuanMartinSalinas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko&hide_stars=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JuanMartinSalinas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko&hide_stars=false" height="210em"/>
     </td>
     <td style="border:0px" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMartinSalinas&theme=merko&card_width=300em&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMartinSalinas&hide_border=true&theme=merko&card_width=300em" />
     </td>
   </tr>
 </table>
